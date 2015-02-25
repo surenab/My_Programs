@@ -1,0 +1,21 @@
+setenv MAIN_COVER /slowfs/am04dwt2p013/projects/layout/ss10/cover/
+setenv svt        /slowfs/am04dwt2p013/projects/layout/ss10/hd1p/techfiles/maps/samsung_SVT.map
+setenv lvt        /slowfs/am04dwt2p013/projects/layout/ss10/hd1p/techfiles/maps/samsung_LVT.map
+setenv ulvt       /slowfs/am04dwt2p013/projects/layout/ss10/hd1p/techfiles/maps/11M_3Mx_6Dx_1Gx_1Iz_LB.map
+setenv svt_icv        /slowfs/am04dwt2p013/projects/layout/ss10/hd1p/techfiles/maps/samsung_SVT.map
+setenv lvt_icv        /slowfs/am04dwt2p013/projects/layout/ss10/hd1p/techfiles/maps/samsung_LVT.map
+setenv ulvt_icv       /slowfs/am04dwt2p013/projects/layout/ss10/hd1p/techfiles/maps/11M_3Mx_6Dx_1Gx_1Iz_LB.map
+setenv d_vt	  /slowfs/am04dwt2p013/projects/layout/ss10/hd1p/techfiles/export_gds/stream_emll.layermap_LVT
+setenv VDK_POOL  GRD
+setenv NetPath     "specify the netlist path"
+setenv NetPathsvt  "specify the netlist path"
+setenv NetPathlvt  "specify the netlist path"
+setenv NetPathulvt "specify the netlist path"
+
+
+
+
+
+
+
+
