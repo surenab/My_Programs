@@ -1,0 +1,21 @@
+"width","center","buffer","io","rio","rebuffer","cap"
+,5,2.5,1.2,,2.5,0.5
+1.6,"hs1prf_rw","hs1prf_rwbuf","hs1prf_rar2x4m2",,"hs1prf_rwldrv","hs1prf_pg_pwedge"
+1.6,,,"hs1prf_rrtar2x4m2",,,
+0.46,"hs1prf_x4dec","hs1prf_x4buf","hs1prf_ar4x4m2",,"hs1prf_x4wldrv","edge4"
+3,"hs1prf_lcen","hs1prf_lcenbuf","hs1prf_cmux2x2",,"hs1prf_lcen_wlstack","hs1prf_capmux"
+3.5,"hs1prf_sactrl","hs1prf_sacbuf","hs1prf_sacm2x2",,"hs1prf_sacdrv","hs1prf_capsac"
+3.5,"hs1prf_gcen","hs1prf_gcenbuf","hs1prf_giom2x2",,"hs1prf_gio_drv","hs1prf_capgio"
+3,,,"hs1prf_cmux4x1",,,
+3.5,,,"hs1prf_sacm4x1",,,
+3.5,,,"hs1prf_giom4x1",,,
+"Powers","vddp;vss;vddpi","vddp;vss;vddpi","vddp;vss;vddpi",,"vddp;vss;vddpi","vddp;vss;vddpi"
+"Pin Cells",,,,,,
+0.7,"hs1prf_gcen_pin","hs1prf_buf_pin","hs1prf_gio2_pin",,"hs1prf_drv_pin","hs1prf_capgio_pin"
+,"x ls bc1 bc2 yadr0 yadr1 bkadr0 xadr0 xadr1 xadr2 xadr3 xadr4 xadr5 xadr xadr6 xadr7 clk me test1 test_rnm rme rm0 rm1 rm2 rm3 we ra0 ra1 wa0 wa1 wa2 wpulse0 wpulse1 wpulse2 fiso rsclk rscin rscen rscrst rscout",,"d0 d1 wem0 wem1 q0 q1 ",,,
+0.7,"hs1prf_bcen_pin","hs1prf_bcenbuf_pin","hs1prf_bio2_pin",,,"hs1prf_capbio_pin"
+,"sd ls ds bc1 bc2 se_q bkadr0  xadr0 xadr1 xadr2 xadr3 xadr4 xadr5 xadr xadr6 xadr7 biste capt cd0 cd1 cd2 cd3 clk dftmask sticky si_cntr se_in pipemeb me txadr0 txadr1 txadr2 txadr3 txadr4 txadr5 txadr6 txadr7 tbkadr0 tclk tclke test1 tme tpipemeb rme swt rm0 rm1 rm2 rm3 se_d we twe yadr0 yadr1 tyadr0 tyadr1 fiso rscen rscin rsclk rscrst so_cntr rscout so_cntr_wtz ra0 ra1 td0 td1 td2 td3 twem wa0 wa1 wa2 wpulse0 wpulse1 wpulse2 test_rnm wtz twtz   ","si_q si_d","d0 d1 wem0 wem1 q0 q1 ",,,"si_qt si_d"
+0.7,,,"hs1prf_gio4_pin",,,
+,,,"d  wem q",,,
+0.7,,,"hs1prf_bio4_pin",,,
+,,,"d  wem q",,,
